@@ -3,4 +3,4 @@ def print_hi(nama):
 
 if __name__ == '__main__':
 
-    print_hi('nihao')
+    print_hi('nihai')
