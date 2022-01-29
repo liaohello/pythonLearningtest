@@ -1,2 +1,2 @@
-def prinhahaha(ok):
-    print(ok)
+def prinhahaha(ok1):
+    print(ok1)
